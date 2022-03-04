@@ -28,19 +28,19 @@
     "prop-types": "^15.7.2"
   },
   "devDependencies": {
-    "@commitlint/cli": "^12.0.0",
-    "@commitlint/config-conventional": "^12.0.0",
+    "@commitlint/cli": "^12.1.4",
+    "@commitlint/config-conventional": "^12.1.4",
     "husky": "6",
     "lint-staged": "^11.0.0",
     "pinst": "^2.1.4",
     "prettier": "^2.0.0",
-    "react": "^17.0.0",
-    "react-native": "^0.64.0",
+    "react": "^17.0.2",
+    "react-native": "^0.67.3",
     "standard-version": "^9.0.0"
   },
   "peerDependencies": {
-    "react": "^17.0.0",
-    "react-native": "^0.64.0"
+    "react": "^17.0.2",
+    "react-native": "^0.67.3"
   },
   "lint-staged": {
     "**/**.{js,json,md,ts}": [
